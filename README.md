@@ -1,3 +1,6 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 # Yomikiru
 
 Offline Manga/Manhwa Reader (not a downloader) built with react and typescript. Manga Reader for people who prefer to download manga/manhwa(from services like hakuneko) then read offline.
